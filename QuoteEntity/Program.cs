@@ -64,7 +64,7 @@ namespace QuoteEntity
             List<Quote> allQuotes = new List<Quote>();
             Calculation calcution = new Calculation();
 
-            // 1. Generate 1 million random quotes and
+            // 1. Generate 1 million random quotes
             // 2. Load them to a list
             // 3. Find sum, max and min from them
             // Operations will be done in parallel programming using Parallel.ForEach
