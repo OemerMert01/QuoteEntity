@@ -1,0 +1,6 @@
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\bin\Debug\QuoteEntity.exe.config
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\bin\Debug\QuoteEntity.exe
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\bin\Debug\QuoteEntity.pdb
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\obj\Debug\QuoteEntity.csprojResolveAssemblyReference.cache
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\obj\Debug\QuoteEntity.exe
+c:\users\ocelikkanat\documents\visual studio 2013\Projects\QuoteEntity\QuoteEntity\obj\Debug\QuoteEntity.pdb
